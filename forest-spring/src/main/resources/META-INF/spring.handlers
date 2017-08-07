@@ -1,1 +1,1 @@
-http\://forest.org/schema/forest-spring=org.forest.spring.schema.ForestNamespaceHandler
+http\://forest.org/schema/forest-spring=com.thebeastshop.forest.spring.schema.ForestNamespaceHandler
