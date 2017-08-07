@@ -32,9 +32,9 @@ Forest是一个通过动态代理模式实现的HTTP客户端框架。<br>
 * 已支持的JSON转换框架: Fastjson, Jackson, Gson
 * 已支持Spring集成
 * 已支持JAXB形式的XML转换
+* 已支持异步请求
 * 现只支持文本和JSON两种响应解析方式
 * 支持Commons-Log, SLF4j, Log4J等日志框架
-* 暂不支持异步请求方式 (计划中)
 
 
 如何获取：
